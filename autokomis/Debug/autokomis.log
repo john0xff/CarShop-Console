@@ -1,0 +1,55 @@
+﻿Build started 2013-01-06 18:54:46.
+     1>Project "D:\Informatica and Programming\C++ Projects\C++ Visual10 Projects\autokomis-konsola\autokomis\autokomis.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\autokomis.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(280): warning C4996: 'unlink': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _unlink. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(299) : see declaration of 'unlink'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(295): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(299): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(328): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(234) : see declaration of 'fopen'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(357): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(360): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(363): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(366): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(369): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(373): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(374): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(377): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(378): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(381): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(384): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(105) : see declaration of 'strcpy'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(422): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(426): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _stricmp. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\string.h(246) : see declaration of 'stricmp'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(455): warning C4996: 'gets': This function or variable may be unsafe. Consider using gets_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 10.0\vc\include\stdio.h(277) : see declaration of 'gets'
+     1>d:\informatica and programming\c++ projects\c++ visual10 projects\autokomis-konsola\autokomis\main.cpp(456): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Informatica and Programming\C++ Projects\C++ Visual10 Projects\autokomis-konsola\Debug\autokomis.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\autokomis.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Informatica and Programming\C++ Projects\C++ Visual10 Projects\autokomis-konsola\Debug\autokomis.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Informatica and Programming\C++ Projects\C++ Visual10 Projects\autokomis-konsola\Debug\autokomis.lib" /MACHINE:X86 Debug\main.obj
+         autokomis.vcxproj -> D:\Informatica and Programming\C++ Projects\C++ Visual10 Projects\autokomis-konsola\Debug\autokomis.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Informatica and Programming\C++ Projects\C++ Visual10 Projects\autokomis-konsola\Debug\autokomis.exe;#1" /manifest Debug\autokomis.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Deleting file "Debug\autokomis.unsuccessfulbuild".
+         Touching "Debug\autokomis.lastbuildstate".
+     1>Done Building Project "D:\Informatica and Programming\C++ Projects\C++ Visual10 Projects\autokomis-konsola\autokomis\autokomis.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.44
